@@ -19,7 +19,7 @@ Optimal page replacement is an ideal algorithm that replaces the page that will 
 
 ## Technologies Used
 
-- **Programming Language**: C/C++ (or specify the language you used)
+- **Programming Language**: HTML,CSS,JavaScript
 - **Algorithms**: FIFO, LRU, Optimal Page Replacement
 
 ## Features
@@ -34,7 +34,7 @@ Optimal page replacement is an ideal algorithm that replaces the page that will 
 
 Before running this project, make sure you have the following installed:
 
-- **C/C++ Compiler** (e.g., GCC, Clang)
+- **JavaScript**
 - **Make** (optional, for building the project)
 
 ### Installation
